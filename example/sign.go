@@ -7,7 +7,8 @@ import (
 	"github.com/davecgh/go-spew/spew"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/miguelmota/go-ethereum-hdwallet"
+
+	"github.com/layer-3/go-ethereum-hdwallet"
 )
 
 func main() {
